@@ -1,0 +1,9 @@
+Package: com.brycedev.spotit
+Name: Spotit
+Depends: mobilesubstrate, firmware (>=9.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Adds a Reddit feed with the hottest posts to your Spotlight view!
+Maintainer: Bryce Jackson
+Author: Tanner Bennett and Bryce Jackson
+Section: Tweaks
